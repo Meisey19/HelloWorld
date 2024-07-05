@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import time
 
+# Here we go
 st.title("Hello World")
 
 progress_bar = st.sidebar.progress(0)
